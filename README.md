@@ -1,11 +1,7 @@
 ## Brain Tumor Classifiaction Using Machine Learning and Deep Learning 🧠
 
-This a group project created as a part of **Applied Machine Learning for Data Scientists** course at **University of North Texas** by:           
-[Chandrahaas](https://www.linkedin.com/in/chandrahaas-kalanadhabhatla/),
- [Pranav](https://www.linkedin.com/in/pranav-moses-2142b7154/)
- and [Sabeeha](https://www.linkedin.com/in/sabiha-tabassum-shaik-23a105241/)
+This project was created as a part of a course at **University of North Texas**   
  
-
 ---
 
 **Data Gathering**:
